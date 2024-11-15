@@ -1,6 +1,4 @@
-import 'dart:io';
-import 'dart:isolate';
-import 'dart:convert';
+import 'licenses/index.dart' as licenses;
 
 /// Exception thrown when a license is not found.
 class UnknownLicenseException implements Exception {}
@@ -22,14 +20,11 @@ class License {
   ///
   /// If the license is not found, an [UnknownLicenseException] is thrown.
   License(String licenseId) {
-    final path = Isolate.resolvePackageUriSync(Uri.parse(
-        "package:licenses_dart/src/licenses/${licenseId.toLowerCase()}.json"));
-    var file = File(path!.toFilePath());
-    if (file.existsSync()) {
-      _json = jsonDecode(file.readAsStringSync());
-    } else {
+    licenseId = licenseId.toLowerCase();
+    if (!licenses.content.containsKey(licenseId)) {
       throw UnknownLicenseException();
     }
+    _json = licenses.content[licenseId];
   }
 
   /// Whether the license is deprecated.
@@ -54,11 +49,13 @@ class License {
   List<Uri> get seeAlso =>
       (_json!["seeAlso"] as List).map((e) => Uri.parse(e as String)).toList();
 
+  /// Returns the name of the license.
   @override
   String toString() {
     return name;
   }
 
+  /// Converts this object to a map.
   Map<String, dynamic> toMap() {
     return {
       "isDeprecatedLicenseId": isDeprecatedLicenseId,

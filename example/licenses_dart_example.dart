@@ -14,8 +14,8 @@ void main() {
   var license2Id = "Funky-1.2"; // This license does not exist
   try {
     License(license2Id);
-    print("License $license2Id valid");
+    print("$license2Id: valid");
   } on UnknownLicenseException {
-    print("License $license2Id unknown");
+    print("$license2Id: unknown");
   }
 }
