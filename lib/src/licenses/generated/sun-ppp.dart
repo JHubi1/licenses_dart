@@ -4,25 +4,28 @@
 // ignore_for_file: file_names
 
 Map<String, dynamic> content = {
-    "isDeprecatedLicenseId": false,
-    "licenseText": "Copyright (c) 2001 by Sun Microsystems, Inc.\nAll rights reserved.\n\nNon-exclusive rights to redistribute, modify, translate, and use\nthis software in source and binary forms, in whole or in part, is\nhereby granted, provided that the above copyright notice is\nduplicated in any source form, and that neither the name of the\ncopyright holder nor the author is used to endorse or promote\nproducts derived from this software.\n\nTHIS SOFTWARE IS PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR\nIMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED\nWARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.\n",
-    "standardLicenseTemplate": "<<var;name=\"copyright\";original=\"Copyright (c) 2001 by Sun Microsystems, Inc.  All rights reserved.\";match=\".{0,5000}\">>\n\nNon-exclusive rights to redistribute, modify, translate, and use this software in source and binary forms, in whole or in part, is hereby granted, provided that the above copyright notice is duplicated in any source form, and that neither the name of the copyright holder nor the author is used to endorse or promote products derived from this software.\n\nTHIS SOFTWARE IS PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.\n\n",
-    "name": "Sun PPP License",
-    "licenseId": "Sun-PPP",
-    "crossRef": [
-        {
-            "match": "false",
-            "url": "https://github.com/ppp-project/ppp/blob/master/pppd/eap.c#L7-L16",
-            "isValid": true,
-            "isLive": true,
-            "timestamp": "2024-11-14T17:25:05Z",
-            "isWayBackLink": false,
-            "order": 0
-        }
-    ],
-    "seeAlso": [
-        "https://github.com/ppp-project/ppp/blob/master/pppd/eap.c#L7-L16"
-    ],
-    "isOsiApproved": false,
-    "licenseTextHtml": "\n         <var class=\"replaceable-license-text\"> \n           Copyright (c) 2001 by Sun Microsystems, Inc.<br />\n\n           All rights reserved.\n         </var>\n         <p>\n           Non-exclusive rights to redistribute, modify, translate, and use\n           this software in source and binary forms, in whole or in part, is\n           hereby granted, provided that the above copyright notice is\n           duplicated in any source form, and that neither the name of the\n           copyright holder nor the author is used to endorse or promote\n           products derived from this software.\n         </p>\n\n         <p>\n           THIS SOFTWARE IS PROVIDED ``AS IS&apos;&apos; AND WITHOUT ANY EXPRESS OR\n           IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED\n           WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.\n         </p>\n\n      "
+  "isDeprecatedLicenseId": false,
+  "licenseText":
+      "Copyright (c) 2001 by Sun Microsystems, Inc.\nAll rights reserved.\n\nNon-exclusive rights to redistribute, modify, translate, and use\nthis software in source and binary forms, in whole or in part, is\nhereby granted, provided that the above copyright notice is\nduplicated in any source form, and that neither the name of the\ncopyright holder nor the author is used to endorse or promote\nproducts derived from this software.\n\nTHIS SOFTWARE IS PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR\nIMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED\nWARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.\n",
+  "standardLicenseTemplate":
+      "<<var;name=\"copyright\";original=\"Copyright (c) 2001 by Sun Microsystems, Inc.  All rights reserved.\";match=\".{0,5000}\">>\n\nNon-exclusive rights to redistribute, modify, translate, and use this software in source and binary forms, in whole or in part, is hereby granted, provided that the above copyright notice is duplicated in any source form, and that neither the name of the copyright holder nor the author is used to endorse or promote products derived from this software.\n\nTHIS SOFTWARE IS PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.\n\n",
+  "name": "Sun PPP License",
+  "licenseId": "Sun-PPP",
+  "crossRef": [
+    {
+      "match": "false",
+      "url": "https://github.com/ppp-project/ppp/blob/master/pppd/eap.c#L7-L16",
+      "isValid": true,
+      "isLive": true,
+      "timestamp": "2024-11-14T17:25:05Z",
+      "isWayBackLink": false,
+      "order": 0
+    }
+  ],
+  "seeAlso": [
+    "https://github.com/ppp-project/ppp/blob/master/pppd/eap.c#L7-L16"
+  ],
+  "isOsiApproved": false,
+  "licenseTextHtml":
+      "\n         <var class=\"replaceable-license-text\"> \n           Copyright (c) 2001 by Sun Microsystems, Inc.<br />\n\n           All rights reserved.\n         </var>\n         <p>\n           Non-exclusive rights to redistribute, modify, translate, and use\n           this software in source and binary forms, in whole or in part, is\n           hereby granted, provided that the above copyright notice is\n           duplicated in any source form, and that neither the name of the\n           copyright holder nor the author is used to endorse or promote\n           products derived from this software.\n         </p>\n\n         <p>\n           THIS SOFTWARE IS PROVIDED ``AS IS&apos;&apos; AND WITHOUT ANY EXPRESS OR\n           IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED\n           WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.\n         </p>\n\n      "
 };

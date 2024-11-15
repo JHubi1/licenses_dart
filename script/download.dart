@@ -66,6 +66,12 @@ void main() async {
   indexFile.writeAsStringSync(indexContent);
   print("done");
 
+  stdout.write("Formatting project... ");
+  Directory.current = lib;
+  Process.runSync("dart", ["format", "."]);
+  Process.runSync("dart", ["fix", "--apply"]);
+  print("done");
+
   stdout.write("Updating README.md... ");
   var readme = File(
       "${File(Platform.script.toFilePath()).parent.parent.path}${Platform.pathSeparator}README.md");

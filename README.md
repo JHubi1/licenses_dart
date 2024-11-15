@@ -31,7 +31,7 @@ try {
 
 ## Index Updates
 
-> Last updated: 2024-11-15 19:21 UTC
+> Last updated: 2024-11-15 19:43 UTC
 
 The package does not fetch the licenses automatically during runtime. Whenever a new license is published, a new version of this package has to be published as well. Don't worry, this isn't a complicated task, it doesn't even take a minute to regenerate all files.
 
