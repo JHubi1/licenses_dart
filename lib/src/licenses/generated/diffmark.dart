@@ -8,16 +8,16 @@ Map<String, dynamic> content = {
   "licenseText":
       "1. you can do what you want with it\n2. I refuse any responsibility for the consequences\n",
   "standardLicenseTemplate":
-      "\n\n   <<var;name=\"bullet\";original=\"1.\";match=\".{0,20}\">> you can do what you want with it\n\n   <<var;name=\"bullet\";original=\"2.\";match=\".{0,20}\">> I refuse any responsibility for the consequences",
+      "\n   <<var;name=\"bullet\";original=\"1.\";match=\".{0,20}\">> you can do what you want with it\n   <<var;name=\"bullet\";original=\"2.\";match=\".{0,20}\">> I refuse any responsibility for the consequences",
   "name": "diffmark license",
   "licenseId": "diffmark",
   "crossRef": [
     {
-      "match": "false",
+      "match": "true",
       "url": "https://fedoraproject.org/wiki/Licensing/diffmark",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:27:53Z",
+      "timestamp": "2024-12-30T17:57:18Z",
       "isWayBackLink": false,
       "order": 0
     }
@@ -25,5 +25,5 @@ Map<String, dynamic> content = {
   "seeAlso": ["https://fedoraproject.org/wiki/Licensing/diffmark"],
   "isOsiApproved": false,
   "licenseTextHtml":
-      "\n      \n<ul style=\"list-style:none\">\n        \n<li>\n            <var class=\"replaceable-license-text\"> 1.</var>\n          you can do what you want with it\n        </li>\n        \n<li>\n            <var class=\"replaceable-license-text\"> 2.</var>\n          I refuse any responsibility for the consequences\n        </li>\n      \n</ul>\n    "
+      "\n      \n<ul style=\"list-style:none\">\n        \n<li>\n            <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,20}\"> 1.</span></var>\n          you can do what you want with it\n        </li>\n        \n<li>\n            <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,20}\"> 2.</span></var>\n          I refuse any responsibility for the consequences\n        </li>\n      \n</ul>\n    "
 };

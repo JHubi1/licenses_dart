@@ -13,12 +13,21 @@ Map<String, dynamic> content = {
   "licenseId": "Xfig",
   "crossRef": [
     {
+      "match": "true",
+      "url": "https://fedoraproject.org/wiki/Licensing:MIT#Xfig_Variant",
+      "isValid": true,
+      "isLive": true,
+      "timestamp": "2024-12-30T17:59:53Z",
+      "isWayBackLink": false,
+      "order": 1
+    },
+    {
       "match": "false",
       "url":
           "https://github.com/Distrotech/transfig/blob/master/transfig/transfig.c",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:27:05Z",
+      "timestamp": "2024-12-30T17:59:54Z",
       "isWayBackLink": false,
       "order": 0
     },
@@ -28,18 +37,9 @@ Map<String, dynamic> content = {
           "https://sourceforge.net/p/mcj/xfig/ci/master/tree/src/Makefile.am",
       "isValid": true,
       "isLive": false,
-      "timestamp": "2024-11-14T17:27:06Z",
+      "timestamp": "2024-12-30T17:59:54Z",
       "isWayBackLink": false,
       "order": 2
-    },
-    {
-      "match": "false",
-      "url": "https://fedoraproject.org/wiki/Licensing:MIT#Xfig_Variant",
-      "isValid": true,
-      "isLive": true,
-      "timestamp": "2024-11-14T17:27:06Z",
-      "isWayBackLink": false,
-      "order": 1
     }
   ],
   "seeAlso": [

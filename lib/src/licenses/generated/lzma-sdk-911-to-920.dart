@@ -8,9 +8,11 @@ Map<String, dynamic> content = {
   "licenseText":
       "LICENSE\n-------\n\nLZMA SDK is written and placed in the public domain by Igor Pavlov.\n\nSome code in LZMA is based on public domain code from another developers:\n  1) PPMd var.H (2001): Dmitry Shkarin\n  2) SHA-256: Wei Dai (Crypto++ library)\n",
   "standardLicenseTemplate":
-      "<<beginOptional>>LICENSE\n\n-------\n\n<<endOptional>>\n\nLZMA SDK is written and placed in the public domain by Igor Pavlov.\n\nSome code in LZMA is based on public domain code from another developers: 1) PPMd var.H (2001): Dmitry Shkarin 2) SHA-256: Wei Dai (Crypto++ library)\n\n",
+      "<<beginOptional>>LICENSE\n\n-------\n\n<<endOptional>>\nLZMA SDK is written and placed in the public domain by Igor Pavlov.\n\nSome code in LZMA is based on public domain code from another developers: 1) PPMd var.H (2001): Dmitry Shkarin 2) SHA-256: Wei Dai (Crypto++ library)\n\n",
   "name": "LZMA SDK License (versions 9.11 to 9.20)",
   "licenseComments":
+      "The license text currently displayed on the 7-zip SDK website is not the same as any of the lzma.txt file in the root folders of the .tar.bz SDK distributions (versions 922 and below) that are hosted on SourceForge, nor is it the same as the .7z distributions (versions 935 and above) which shifted the license text to DOC\\lzma-sdk.txt. This license applies to versions between 9.11 and 9.20 (inclusive).",
+  "comment":
       "The license text currently displayed on the 7-zip SDK website is not the same as any of the lzma.txt file in the root folders of the .tar.bz SDK distributions (versions 922 and below) that are hosted on SourceForge, nor is it the same as the .7z distributions (versions 935 and above) which shifted the license text to DOC\\lzma-sdk.txt. This license applies to versions between 9.11 and 9.20 (inclusive).",
   "licenseId": "LZMA-SDK-9.11-to-9.20",
   "crossRef": [
@@ -19,7 +21,7 @@ Map<String, dynamic> content = {
       "url": "https://sourceforge.net/projects/sevenzip/files/LZMA%20SDK/",
       "isValid": true,
       "isLive": false,
-      "timestamp": "2024-11-14T17:24:27Z",
+      "timestamp": "2024-12-30T17:55:34Z",
       "isWayBackLink": false,
       "order": 1
     },
@@ -28,7 +30,7 @@ Map<String, dynamic> content = {
       "url": "https://www.7-zip.org/sdk.html",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:24:28Z",
+      "timestamp": "2024-12-30T17:55:35Z",
       "isWayBackLink": false,
       "order": 0
     }

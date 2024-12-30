@@ -1,6 +1,6 @@
 name: licenses_dart
 description: A Dart package for loading and parsing all available SPDX licenses.
-version: 1.1.0+1
+version: 1.1.0+2
 repository: https://github.com/JHubi1/licenses_dart
 
 topics:

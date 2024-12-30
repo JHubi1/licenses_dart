@@ -17,7 +17,7 @@ Map<String, dynamic> content = {
       "url": "https://github.com/signal11/hidapi/blob/master/LICENSE-orig.txt",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:20:22Z",
+      "timestamp": "2024-12-30T18:05:33Z",
       "isWayBackLink": false,
       "order": 0
     }

@@ -13,12 +13,12 @@ Map<String, dynamic> content = {
   "licenseId": "Baekmuk",
   "crossRef": [
     {
-      "match": "false",
+      "match": "true",
       "url":
           "https://fedoraproject.org/wiki/Licensing:Baekmuk?rd=Licensing/Baekmuk",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:28:56Z",
+      "timestamp": "2024-12-30T18:00:05Z",
       "isWayBackLink": false,
       "order": 0
     }

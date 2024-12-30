@@ -14,12 +14,12 @@ Map<String, dynamic> content = {
   "licenseId": "FSFAP",
   "crossRef": [
     {
-      "match": "false",
+      "match": "true",
       "url":
           "https://www.gnu.org/prep/maintain/html_node/License-Notices-for-Other-Files.html",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:11:37Z",
+      "timestamp": "2024-12-30T17:55:19Z",
       "isWayBackLink": false,
       "order": 0
     }
@@ -29,5 +29,5 @@ Map<String, dynamic> content = {
   ],
   "isOsiApproved": false,
   "licenseTextHtml":
-      "\n      <p>Copying and distribution of this file, with or without\n         modification, are permitted in any medium without royalty\n         provided the copyright notice and this notice are preserved.\n         This file is offered as-is, without <var class=\"replaceable-license-text\"> any warranty</var>.</p>\n\n    "
+      "\n      <p>Copying and distribution of this file, with or without\n         modification, are permitted in any medium without royalty\n         provided the copyright notice and this notice are preserved.\n         This file is offered as-is, without <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern warranty of any kind|any warranty\"> any warranty</span></var>.</p>\n\n    "
 };

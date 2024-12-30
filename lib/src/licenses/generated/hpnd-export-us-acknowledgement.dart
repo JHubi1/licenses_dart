@@ -12,24 +12,26 @@ Map<String, dynamic> content = {
   "name": "HPND with US Government export control warning and acknowledgment",
   "licenseComments":
       "This license is similar to HPND-export-US, but has a different obligation relating to notice and different disclaimer.",
+  "comment":
+      "This license is similar to HPND-export-US, but has a different obligation relating to notice and different disclaimer.",
   "licenseId": "HPND-export-US-acknowledgement",
   "crossRef": [
     {
-      "match": "false",
+      "match": "true",
       "url": "https://web.mit.edu/kerberos/krb5-1.21/doc/mitK5license.html",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:22:59Z",
+      "timestamp": "2024-12-30T17:55:01Z",
       "isWayBackLink": false,
       "order": 1
     },
     {
-      "match": "false",
+      "match": "true",
       "url":
           "https://github.com/krb5/krb5/blob/krb5-1.21.2-final/NOTICE#L831-L852",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:23:00Z",
+      "timestamp": "2024-12-30T17:55:01Z",
       "isWayBackLink": false,
       "order": 0
     }

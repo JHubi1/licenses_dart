@@ -8,7 +8,7 @@ Map<String, dynamic> content = {
   "licenseText":
       "License is hereby granted to use this software and distribute it freely,\nas long as this copyright notice is retained and modifications are\nclearly marked.\n\nALL WARRANTIES ARE HEREBY DISCLAIMED.\n",
   "standardLicenseTemplate":
-      "<<var;name=\"copyright\";original=\"Copyright 1993-2014 Christopher Seiwald and Perforce Software, Inc.  \";match=\".{0,5000}\">>\n\nLicense is hereby granted to use this software and distribute it freely, as long as this copyright notice is retained and modifications are clearly marked.\n\nALL WARRANTIES ARE HEREBY DISCLAIMED.\n\n",
+      "<<var;name=\"copyright\";original=\"Copyright 1993-2014 Christopher Seiwald and Perforce Software, Inc.  \";match=\".{0,5000}\">>\nLicense is hereby granted to use this software and distribute it freely, as long as this copyright notice is retained and modifications are clearly marked.\n\nALL WARRANTIES ARE HEREBY DISCLAIMED.\n\n",
   "name": "Jam License",
   "licenseId": "Jam",
   "crossRef": [
@@ -18,16 +18,16 @@ Map<String, dynamic> content = {
           "https://web.archive.org/web/20160330173339/https://swarm.workshop.perforce.com/files/guest/perforce_software/jam/src/README",
       "isValid": false,
       "isLive": false,
-      "timestamp": "2024-11-14T17:10:56Z",
+      "timestamp": "2024-12-30T17:59:39Z",
       "isWayBackLink": false,
       "order": 1
     },
     {
-      "match": "false",
+      "match": "true",
       "url": "https://www.boost.org/doc/libs/1_35_0/doc/html/jam.html",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:10:57Z",
+      "timestamp": "2024-12-30T17:59:39Z",
       "isWayBackLink": false,
       "order": 0
     }
@@ -38,5 +38,5 @@ Map<String, dynamic> content = {
   ],
   "isOsiApproved": true,
   "licenseTextHtml":
-      "\n        <div class=\"replaceable-license-text\"> \n\t    <p>Copyright 1993-2014 Christopher Seiwald and Perforce Software, Inc.</p>\n\n        </div>\n\n\t<p>\n            License is hereby granted to use this software and distribute it\n            freely, as long as this copyright notice is retained and modifications\n            are clearly marked.\n\t</p>\n\n\t<p>\n            ALL WARRANTIES ARE HEREBY DISCLAIMED.\n\t</p>\n\n    "
+      "\n        <div class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n\t    <p>Copyright 1993-2014 Christopher Seiwald and Perforce Software, Inc.</p>\n\n        </span></div>\n\n\t<p>\n            License is hereby granted to use this software and distribute it\n            freely, as long as this copyright notice is retained and modifications\n            are clearly marked.\n\t</p>\n\n\t<p>\n            ALL WARRANTIES ARE HEREBY DISCLAIMED.\n\t</p>\n\n    "
 };

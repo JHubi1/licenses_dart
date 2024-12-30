@@ -8,7 +8,7 @@ Map<String, dynamic> content = {
   "licenseText":
       "LICENSE\n\nThis code repository predates the concept of Open Source, and predates most licenses along such lines. As such, the official license truly is:\n\nEULA: The Graphics Gems code is copyright-protected. In other words, you cannot claim the text of the code as your own and resell it. Using the code is permitted in any program, product, or library, non-commercial or commercial. Giving credit is not required, though is a nice gesture. The code comes as-is, and if there are any flaws or problems with any Gems code, nobody involved with Gems - authors, editors, publishers, or webmasters - are to be held responsible. Basically, don't be a jerk, and remember that anything free comes with no guarantee.\n",
   "standardLicenseTemplate":
-      "<<beginOptional>>LICENSE\n\nThis code repository predates the concept of Open Source, and predates most licenses along such lines. As such, the official license truly is:\n\n<<endOptional>>\n\nEULA: The Graphics Gems code is copyright-protected. In other words, you cannot claim the text of the code as your own and resell it. Using the code is permitted in any program, product, or library, non-commercial or commercial. Giving credit is not required, though is a nice gesture. The code comes as-is, and if there are any flaws or problems with any Gems code, nobody involved with Gems - authors, editors, publishers, or webmasters - are to be held responsible. Basically, don't be a jerk, and remember that anything free comes with no guarantee.\n\n",
+      "<<beginOptional>>LICENSE\n\nThis code repository predates the concept of Open Source, and predates most licenses along such lines. As such, the official license truly is:\n\n<<endOptional>>\nEULA: The Graphics Gems code is copyright-protected. In other words, you cannot claim the text of the code as your own and resell it. Using the code is permitted in any program, product, or library, non-commercial or commercial. Giving credit is not required, though is a nice gesture. The code comes as-is, and if there are any flaws or problems with any Gems code, nobody involved with Gems - authors, editors, publishers, or webmasters - are to be held responsible. Basically, don't be a jerk, and remember that anything free comes with no guarantee.\n\n",
   "name": "Graphics Gems License",
   "licenseId": "Graphics-Gems",
   "crossRef": [
@@ -17,7 +17,7 @@ Map<String, dynamic> content = {
       "url": "https://github.com/erich666/GraphicsGems/blob/master/LICENSE.md",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:14:18Z",
+      "timestamp": "2024-12-30T17:55:01Z",
       "isWayBackLink": false,
       "order": 0
     }

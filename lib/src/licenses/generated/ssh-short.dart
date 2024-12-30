@@ -12,25 +12,17 @@ Map<String, dynamic> content = {
   "name": "SSH short notice",
   "licenseComments":
       "This is short version of SSH-OpenSSH that appears in some files associated with the original SSH implementation.",
+  "comment":
+      "This is short version of SSH-OpenSSH that appears in some files associated with the original SSH implementation.",
   "licenseId": "SSH-short",
   "crossRef": [
-    {
-      "match": "N/A",
-      "url":
-          "http://web.mit.edu/kolya/.f/root/athena.mit.edu/sipb.mit.edu/project/openssh/OldFiles/src/openssh-2.9.9p2/ssh-add.1",
-      "isValid": true,
-      "isLive": false,
-      "timestamp": "2024-11-14T17:11:28Z",
-      "isWayBackLink": false,
-      "order": 1
-    },
     {
       "match": "false",
       "url":
           "https://github.com/openssh/openssh-portable/blob/1b11ea7c58cd5c59838b5fa574cd456d6047b2d4/pathnames.h",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:11:28Z",
+      "timestamp": "2024-12-30T17:55:48Z",
       "isWayBackLink": false,
       "order": 0
     },
@@ -40,9 +32,19 @@ Map<String, dynamic> content = {
           "https://joinup.ec.europa.eu/svn/lesoll/trunk/italc/lib/src/dsa_key.cpp",
       "isValid": true,
       "isLive": false,
-      "timestamp": "2024-11-14T17:11:29Z",
+      "timestamp": "2024-12-30T17:55:48Z",
       "isWayBackLink": false,
       "order": 2
+    },
+    {
+      "match": "N/A",
+      "url":
+          "http://web.mit.edu/kolya/.f/root/athena.mit.edu/sipb.mit.edu/project/openssh/OldFiles/src/openssh-2.9.9p2/ssh-add.1",
+      "isValid": true,
+      "isLive": false,
+      "timestamp": "2024-12-30T17:55:48Z",
+      "isWayBackLink": false,
+      "order": 1
     }
   ],
   "seeAlso": [

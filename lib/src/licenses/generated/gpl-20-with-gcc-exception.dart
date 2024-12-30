@@ -12,6 +12,8 @@ Map<String, dynamic> content = {
   "name": "GNU General Public License v2.0 w/GCC Runtime Library exception",
   "licenseComments":
       "DEPRECATED: Use license expression including main license, \"WITH\" operator, and identifier: GCC-exception-2.0",
+  "comment":
+      "DEPRECATED: Use license expression including main license, \"WITH\" operator, and identifier: GCC-exception-2.0",
   "licenseId": "GPL-2.0-with-GCC-exception",
   "crossRef": [
     {
@@ -20,7 +22,7 @@ Map<String, dynamic> content = {
           "https://gcc.gnu.org/git/?p=gcc.git;a=blob;f=gcc/libgcc1.c;h=762f5143fc6eed57b6797c82710f3538aa52b40b;hb=cb143a3ce4fb417c68f5fa2691a1b1b1053dfba9#l10",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:15:13Z",
+      "timestamp": "2024-12-30T18:00:51Z",
       "isWayBackLink": false,
       "order": 0
     }

@@ -12,6 +12,8 @@ Map<String, dynamic> content = {
   "name": "GNU General Public License v2.0 w/Font exception",
   "licenseComments":
       "DEPRECATED: Use license expression including main license, \"WITH\" operator, and identifier: Font-exception-2.0",
+  "comment":
+      "DEPRECATED: Use license expression including main license, \"WITH\" operator, and identifier: Font-exception-2.0",
   "licenseId": "GPL-2.0-with-font-exception",
   "crossRef": [
     {
@@ -19,7 +21,7 @@ Map<String, dynamic> content = {
       "url": "https://www.gnu.org/licenses/gpl-faq.html#FontException",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:29:26Z",
+      "timestamp": "2024-12-30T18:02:58Z",
       "isWayBackLink": false,
       "order": 0
     }

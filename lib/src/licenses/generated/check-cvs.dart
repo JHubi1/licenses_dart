@@ -11,6 +11,7 @@ Map<String, dynamic> content = {
       "Permission is granted to copy and/or distribute this file, with or without modifications, provided this notice is preserved.\n\n",
   "name": "check-cvs License",
   "licenseComments": "This license is similar to FSFULLR.",
+  "comment": "This license is similar to FSFULLR.",
   "licenseId": "check-cvs",
   "crossRef": [
     {
@@ -19,7 +20,7 @@ Map<String, dynamic> content = {
           "http://cvs.savannah.gnu.org/viewvc/cvs/ccvs/contrib/check_cvs.in?revision=1.1.4.3&view=markup&pathrev=cvs1-11-23#l2",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:11:48Z",
+      "timestamp": "2024-12-30T17:59:42Z",
       "isWayBackLink": false,
       "order": 0
     }

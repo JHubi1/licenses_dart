@@ -8,7 +8,7 @@ Map<String, dynamic> content = {
   "licenseText":
       "Copyright (C) 1995 by Donald Arseneau\n\nThis file may be freely transmitted and reproduced, but it may not be changed unless the name is changed also (except that you may freely change the paper-size option for \\documentclass).\n\nThis notice must be left intact.\n",
   "standardLicenseTemplate":
-      "<<var;name=\"copyright\";original=\"Copyright (C) 1995 by Donald Arseneau  \";match=\".{0,5000}\">>\n\nThis file may be freely transmitted and reproduced, but it may not be changed unless the name is changed also (except that you may freely change the paper-size option for \\documentclass).\n\nThis notice must be left intact.\n\n",
+      "<<var;name=\"copyright\";original=\"Copyright (C) 1995 by Donald Arseneau  \";match=\".{0,5000}\">>\nThis file may be freely transmitted and reproduced, but it may not be changed unless the name is changed also (except that you may freely change the paper-size option for \\documentclass).\n\nThis notice must be left intact.\n\n",
   "name": "Dotseqn License",
   "licenseId": "Dotseqn",
   "crossRef": [
@@ -17,7 +17,7 @@ Map<String, dynamic> content = {
       "url": "https://fedoraproject.org/wiki/Licensing/Dotseqn",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:11:44Z",
+      "timestamp": "2024-12-30T18:00:39Z",
       "isWayBackLink": false,
       "order": 0
     }
@@ -25,5 +25,5 @@ Map<String, dynamic> content = {
   "seeAlso": ["https://fedoraproject.org/wiki/Licensing/Dotseqn"],
   "isOsiApproved": false,
   "licenseTextHtml":
-      "\n      <div class=\"replaceable-license-text\"> \n         <p>Copyright (C) 1995 by Donald Arseneau</p>\n\n      </div>\n\n      <p>This file may be freely transmitted and reproduced, but it may not be changed unless the name is changed\n         also (except that you may freely change the paper-size option for \\documentclass).</p>\n\n      <p>This notice must be left intact.</p>\n\n    "
+      "\n      <div class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n         <p>Copyright (C) 1995 by Donald Arseneau</p>\n\n      </span></div>\n\n      <p>This file may be freely transmitted and reproduced, but it may not be changed unless the name is changed\n         also (except that you may freely change the paper-size option for \\documentclass).</p>\n\n      <p>This notice must be left intact.</p>\n\n    "
 };

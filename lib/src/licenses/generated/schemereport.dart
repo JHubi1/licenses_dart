@@ -12,6 +12,8 @@ Map<String, dynamic> content = {
   "name": "Scheme Language Report License",
   "licenseComments":
       "Code derived from the document \"Revised Report on Scheme\" and subsequent revisions, is distributed under the following license:\n\n",
+  "comment":
+      "Code derived from the document \"Revised Report on Scheme\" and subsequent revisions, is distributed under the following license:\n\n",
   "licenseId": "SchemeReport",
   "crossRef": [],
   "seeAlso": [],

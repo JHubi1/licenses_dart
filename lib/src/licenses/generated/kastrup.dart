@@ -8,7 +8,7 @@ Map<String, dynamic> content = {
   "licenseText":
       "Copyright(c) 2001 by David Kastrup\nAny use of the code is permitted as long as this copyright \nnotice is preserved in the code.\n",
   "standardLicenseTemplate":
-      "<<var;name=\"copyright\";original=\"Copyright(c) 2001 by David Kastrup\";match=\".{0,5000}\">>\n\nAny use of the code is permitted as long as this copyright notice is preserved in the code.\n\n",
+      "<<var;name=\"copyright\";original=\"Copyright(c) 2001 by David Kastrup\";match=\".{0,5000}\">>\nAny use of the code is permitted as long as this copyright notice is preserved in the code.\n\n",
   "name": "Kastrup License",
   "licenseId": "Kastrup",
   "crossRef": [
@@ -18,7 +18,7 @@ Map<String, dynamic> content = {
           "https://ctan.math.utah.edu/ctan/tex-archive/macros/generic/kastrup/binhex.dtx",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:11:35Z",
+      "timestamp": "2024-12-30T18:00:57Z",
       "isWayBackLink": false,
       "order": 0
     }
@@ -28,5 +28,5 @@ Map<String, dynamic> content = {
   ],
   "isOsiApproved": false,
   "licenseTextHtml":
-      "\n         <var class=\"replaceable-license-text\"> \n           Copyright(c) 2001 by David Kastrup\n         </var>\n         <p>\n            Any use of the code is permitted\n            as long as this copyright notice is preserved in the code.\n         </p>\n\n      "
+      "\n         <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n           Copyright(c) 2001 by David Kastrup\n         </span></var>\n         <p>\n            Any use of the code is permitted\n            as long as this copyright notice is preserved in the code.\n         </p>\n\n      "
 };

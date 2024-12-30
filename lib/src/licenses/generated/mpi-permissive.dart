@@ -13,12 +13,12 @@ Map<String, dynamic> content = {
   "licenseId": "mpi-permissive",
   "crossRef": [
     {
-      "match": "false",
+      "match": "true",
       "url":
           "https://sources.debian.org/src/openmpi/4.1.0-10/ompi/debuggers/msgq_interface.h/?hl=19#L19",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:23:37Z",
+      "timestamp": "2024-12-30T18:00:59Z",
       "isWayBackLink": false,
       "order": 0
     }
@@ -28,5 +28,5 @@ Map<String, dynamic> content = {
   ],
   "isOsiApproved": false,
   "licenseTextHtml":
-      "\n      <div class=\"replaceable-license-text\"> \n         <p>Copyright (C) 2000-2004 by Etnus, LLC</p>\n\n      </div>\n\n  Permission is hereby granted to use, reproduce, prepare derivative\n  works, and to redistribute to others.\n\n\t\t\t\t  DISCLAIMER\n\n  Neither <var class=\"replaceable-license-text\"> Etnus</var>, nor any of their employees, makes any warranty\n  express or implied, or assumes any legal liability or\n  responsibility for the accuracy, completeness, or usefulness of any\n  information, apparatus, product, or process disclosed, or\n  represents that its use would not infringe privately owned rights.\n\n  This code was written by\n  <var class=\"replaceable-license-text\"> James Cownie: Etnus, LLC. &lt;jcownie@etnus.com&gt;</var>\n    "
+      "\n      <div class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n         <p>Copyright (C) 2000-2004 by Etnus, LLC</p>\n\n      </span></div>\n\n  Permission is hereby granted to use, reproduce, prepare derivative\n  works, and to redistribute to others.\n\n\t\t\t\t  DISCLAIMER\n\n  Neither <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .+\"> Etnus</span></var>, nor any of their employees, makes any warranty\n  express or implied, or assumes any legal liability or\n  responsibility for the accuracy, completeness, or usefulness of any\n  information, apparatus, product, or process disclosed, or\n  represents that its use would not infringe privately owned rights.\n\n  This code was written by\n  <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .+\"> James Cownie: Etnus, LLC. &lt;jcownie@etnus.com&gt;</span></var>\n    "
 };

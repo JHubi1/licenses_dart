@@ -13,11 +13,11 @@ Map<String, dynamic> content = {
   "licenseId": "OML",
   "crossRef": [
     {
-      "match": "false",
+      "match": "true",
       "url": "https://fedoraproject.org/wiki/Licensing/Open_Market_License",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:24:57Z",
+      "timestamp": "2024-12-30T18:00:34Z",
       "isWayBackLink": false,
       "order": 0
     }

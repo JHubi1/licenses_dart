@@ -8,7 +8,7 @@ Map<String, dynamic> content = {
   "licenseText":
       "* Copyright 1995, 1996 by David Mazieres <dm@lcs.mit.edu>.\n*\n* Modification and redistribution in source and binary forms is\n* permitted provided that due credit is given to the author and the\n* OpenBSD project by leaving this copyright notice intact.\n",
   "standardLicenseTemplate":
-      "<<var;name=\"copyright\";original=\"Copyright 1995, 1996 by David Mazieres <dm@lcs.mit.edu>.\";match=\".{0,5000}\">>\n\nModification and redistribution in source and binary forms is permitted provided that due credit is given to the author and the OpenBSD project by leaving this copyright notice intact.\n\n",
+      "<<var;name=\"copyright\";original=\"Copyright 1995, 1996 by David Mazieres <dm@lcs.mit.edu>.\";match=\".{0,5000}\">>\nModification and redistribution in source and binary forms is permitted provided that due credit is given to the author and the OpenBSD project by leaving this copyright notice intact.\n\n",
   "name": "ssh-keyscan License",
   "licenseId": "ssh-keyscan",
   "crossRef": [
@@ -18,7 +18,7 @@ Map<String, dynamic> content = {
           "https://github.com/openssh/openssh-portable/blob/master/LICENCE#L82",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:17:51Z",
+      "timestamp": "2024-12-30T18:00:04Z",
       "isWayBackLink": false,
       "order": 0
     }
@@ -28,5 +28,5 @@ Map<String, dynamic> content = {
   ],
   "isOsiApproved": false,
   "licenseTextHtml":
-      "\n               <var class=\"replaceable-license-text\"> \n                  Copyright 1995, 1996 by David Mazieres &lt;dm@lcs.mit.edu&gt;.\n               </var>\n               <p>\n                  Modification and redistribution in source and binary forms is\n                  permitted provided that due credit is given to the author and\n                  the OpenBSD project by leaving this copyright notice intact.\n               </p>\n\n      "
+      "\n               <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n                  Copyright 1995, 1996 by David Mazieres &lt;dm@lcs.mit.edu&gt;.\n               </span></var>\n               <p>\n                  Modification and redistribution in source and binary forms is\n                  permitted provided that due credit is given to the author and\n                  the OpenBSD project by leaving this copyright notice intact.\n               </p>\n\n      "
 };

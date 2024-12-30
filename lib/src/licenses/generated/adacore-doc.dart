@@ -13,33 +13,33 @@ Map<String, dynamic> content = {
   "licenseId": "AdaCore-doc",
   "crossRef": [
     {
-      "match": "false",
-      "url": "https://github.com/AdaCore/xmlada/blob/master/docs/index.rst",
-      "isValid": true,
-      "isLive": true,
-      "timestamp": "2024-11-14T17:27:51Z",
-      "isWayBackLink": false,
-      "order": 0
-    },
-    {
-      "match": "false",
+      "match": "true",
       "url":
           "https://github.com/AdaCore/gnatcoll-db/blob/master/docs/index.rst",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:27:52Z",
+      "timestamp": "2024-12-30T17:59:34Z",
       "isWayBackLink": false,
       "order": 2
     },
     {
-      "match": "false",
+      "match": "true",
       "url":
           "https://github.com/AdaCore/gnatcoll-core/blob/master/docs/index.rst",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:27:52Z",
+      "timestamp": "2024-12-30T17:59:34Z",
       "isWayBackLink": false,
       "order": 1
+    },
+    {
+      "match": "true",
+      "url": "https://github.com/AdaCore/xmlada/blob/master/docs/index.rst",
+      "isValid": true,
+      "isLive": true,
+      "timestamp": "2024-12-30T17:59:34Z",
+      "isWayBackLink": false,
+      "order": 0
     }
   ],
   "seeAlso": [

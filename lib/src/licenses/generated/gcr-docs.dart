@@ -13,11 +13,11 @@ Map<String, dynamic> content = {
   "licenseId": "GCR-docs",
   "crossRef": [
     {
-      "match": "false",
+      "match": "true",
       "url": "https://github.com/GNOME/gcr/blob/master/docs/COPYING",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:15:33Z",
+      "timestamp": "2024-12-30T17:55:30Z",
       "isWayBackLink": false,
       "order": 0
     }

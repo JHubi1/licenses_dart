@@ -8,7 +8,7 @@ Map<String, dynamic> content = {
   "licenseText":
       "# Copyright (c) 2006, 2010  Micah Cowan\n#\n# Redistribution of this program in any form, with or without\n# modifications, is permitted, provided that the above copyright is\n# retained in distributions of this program in source form.\n#\n# (This is a free, non-copyleft license compatible with pretty much any\n# other free or proprietary license, including the GPL. It's essentially\n# a scaled-down version of the \"modified\" BSD license.)\n",
   "standardLicenseTemplate":
-      "<<var;name=\"copyright\";original=\"Copyright (c) 2006, 2010 Micah Cowan  \";match=\".{0,5000}\">>\n\nRedistribution of this program in any form, with or without modifications, is permitted, provided that the above copyright is retained in distributions of this program in source form.\n\n(This is a free, non-copyleft license compatible with pretty much any other free or proprietary license, including the GPL. It's essentially a scaled-down version of the \"modified\" BSD license.)\n\n",
+      "<<var;name=\"copyright\";original=\"Copyright (c) 2006, 2010 Micah Cowan  \";match=\".{0,5000}\">>\nRedistribution of this program in any form, with or without modifications, is permitted, provided that the above copyright is retained in distributions of this program in source form.\n\n(This is a free, non-copyleft license compatible with pretty much any other free or proprietary license, including the GPL. It's essentially a scaled-down version of the \"modified\" BSD license.)\n\n",
   "name": "Checkmk License",
   "licenseId": "checkmk",
   "crossRef": [
@@ -17,7 +17,7 @@ Map<String, dynamic> content = {
       "url": "https://github.com/libcheck/check/blob/master/checkmk/checkmk.in",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:20:15Z",
+      "timestamp": "2024-12-30T17:54:49Z",
       "isWayBackLink": false,
       "order": 0
     }
@@ -27,5 +27,5 @@ Map<String, dynamic> content = {
   ],
   "isOsiApproved": false,
   "licenseTextHtml":
-      "\n\n      <div class=\"replaceable-license-text\"> \n         <p>Copyright (c) 2006, 2010  Micah Cowan</p>\n\n      </div>\n\n      <p>Redistribution of this program in any form, with or without\n modifications, is permitted, provided that the above copyright is\n retained in distributions of this program in source form.</p>\n\n<p> (This is a free, non-copyleft license compatible with pretty much any\nother free or proprietary license, including the GPL. It&apos;s essentially\na scaled-down version of the &quot;modified&quot; BSD license.)\n</p>\n\n    "
+      "\n\n      <div class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n         <p>Copyright (c) 2006, 2010  Micah Cowan</p>\n\n      </span></div>\n\n      <p>Redistribution of this program in any form, with or without\n modifications, is permitted, provided that the above copyright is\n retained in distributions of this program in source form.</p>\n\n<p> (This is a free, non-copyleft license compatible with pretty much any\nother free or proprietary license, including the GPL. It&apos;s essentially\na scaled-down version of the &quot;modified&quot; BSD license.)\n</p>\n\n    "
 };

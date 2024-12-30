@@ -8,7 +8,7 @@ Map<String, dynamic> content = {
   "licenseText":
       "Copyright (c) 2000 by Sun Microsystems, Inc.\nAll rights reserved.\n\nPermission to use, copy, modify, and distribute this software and its\ndocumentation is hereby granted, provided that the above copyright\nnotice appears in all copies.\n\nSUN MAKES NO REPRESENTATION OR WARRANTIES ABOUT THE SUITABILITY OF\nTHE SOFTWARE, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED\nTO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A\nPARTICULAR PURPOSE, OR NON-INFRINGEMENT.  SUN SHALL NOT BE LIABLE FOR\nANY DAMAGES SUFFERED BY LICENSEE AS A RESULT OF USING, MODIFYING OR\nDISTRIBUTING THIS SOFTWARE OR ITS DERIVATIVES\n\n",
   "standardLicenseTemplate":
-      "<<var;name=\"copyright\";original=\"Copyright (c) 2000 by Sun Microsystems, Inc.  All rights reserved.  \";match=\".{0,5000}\">>\n\nPermission to use, copy, modify, and distribute this software and its documentation is hereby granted, provided that the above copyright notice appears in all copies.\n\nSUN MAKES NO REPRESENTATION OR WARRANTIES ABOUT THE SUITABILITY OF THE SOFTWARE, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. SUN SHALL NOT BE LIABLE FOR ANY DAMAGES SUFFERED BY LICENSEE AS A RESULT OF USING, MODIFYING OR DISTRIBUTING THIS SOFTWARE OR ITS DERIVATIVES\n\n",
+      "<<var;name=\"copyright\";original=\"Copyright (c) 2000 by Sun Microsystems, Inc. All rights reserved.  \";match=\".{0,5000}\">>\nPermission to use, copy, modify, and distribute this software and its documentation is hereby granted, provided that the above copyright notice appears in all copies.\n\nSUN MAKES NO REPRESENTATION OR WARRANTIES ABOUT THE SUITABILITY OF THE SOFTWARE, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. SUN SHALL NOT BE LIABLE FOR ANY DAMAGES SUFFERED BY LICENSEE AS A RESULT OF USING, MODIFYING OR DISTRIBUTING THIS SOFTWARE OR ITS DERIVATIVES\n\n",
   "name": "Sun PPP License (2000)",
   "licenseId": "Sun-PPP-2000",
   "crossRef": [
@@ -18,7 +18,7 @@ Map<String, dynamic> content = {
           "https://github.com/ppp-project/ppp/blob/master/modules/ppp_ahdlc.c#L7-L19",
       "isValid": true,
       "isLive": false,
-      "timestamp": "2024-11-14T17:20:33Z",
+      "timestamp": "2024-12-30T18:01:59Z",
       "isWayBackLink": false,
       "order": 0
     }
@@ -28,5 +28,5 @@ Map<String, dynamic> content = {
   ],
   "isOsiApproved": false,
   "licenseTextHtml":
-      "\n      <div class=\"replaceable-license-text\"> \n         <p>Copyright (c) 2000 by Sun Microsystems, Inc.<br />\n\n            All rights reserved.</p>\n\n      </div>\n      <p>\n         Permission to use, copy, modify, and distribute this software and its\n         documentation is hereby granted, provided that the above copyright\n         notice appears in all copies.\n      </p>\n\n      <p>\n         SUN MAKES NO REPRESENTATION OR WARRANTIES ABOUT THE SUITABILITY OF\n         THE SOFTWARE, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED\n         TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A\n         PARTICULAR PURPOSE, OR NON-INFRINGEMENT.  SUN SHALL NOT BE LIABLE FOR\n         ANY DAMAGES SUFFERED BY LICENSEE AS A RESULT OF USING, MODIFYING OR\n         DISTRIBUTING THIS SOFTWARE OR ITS DERIVATIVES\n      </p>\n\n    "
+      "\n      <div class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n         <p>Copyright (c) 2000 by Sun Microsystems, Inc.<br />\n\n            All rights reserved.</p>\n\n      </span></div>\n      <p>\n         Permission to use, copy, modify, and distribute this software and its\n         documentation is hereby granted, provided that the above copyright\n         notice appears in all copies.\n      </p>\n\n      <p>\n         SUN MAKES NO REPRESENTATION OR WARRANTIES ABOUT THE SUITABILITY OF\n         THE SOFTWARE, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED\n         TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A\n         PARTICULAR PURPOSE, OR NON-INFRINGEMENT.  SUN SHALL NOT BE LIABLE FOR\n         ANY DAMAGES SUFFERED BY LICENSEE AS A RESULT OF USING, MODIFYING OR\n         DISTRIBUTING THIS SOFTWARE OR ITS DERIVATIVES\n      </p>\n\n    "
 };

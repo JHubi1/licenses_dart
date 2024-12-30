@@ -12,6 +12,8 @@ Map<String, dynamic> content = {
   "name": "GNU General Public License v2.0 w/Classpath exception",
   "licenseComments":
       "DEPRECATED: Use license expression including main license, \"WITH\" operator, and identifier: Classpath-exception-2.0",
+  "comment":
+      "DEPRECATED: Use license expression including main license, \"WITH\" operator, and identifier: Classpath-exception-2.0",
   "licenseId": "GPL-2.0-with-classpath-exception",
   "crossRef": [
     {
@@ -19,7 +21,7 @@ Map<String, dynamic> content = {
       "url": "https://www.gnu.org/software/classpath/license.html",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:15:22Z",
+      "timestamp": "2024-12-30T17:59:41Z",
       "isWayBackLink": false,
       "order": 0
     }

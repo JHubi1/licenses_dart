@@ -13,6 +13,8 @@ Map<String, dynamic> content = {
       "Historical Permission Notice and Disclaimer - sell xserver variant with MIT disclaimer",
   "licenseComments":
       "This is similar to HPND-sell-variant-MIT-disclaimer but it omits the copyright notice reproduction obligation.",
+  "comment":
+      "This is similar to HPND-sell-variant-MIT-disclaimer but it omits the copyright notice reproduction obligation.",
   "licenseId": "HPND-sell-MIT-disclaimer-xserver",
   "crossRef": [
     {
@@ -21,7 +23,7 @@ Map<String, dynamic> content = {
           "https://gitlab.freedesktop.org/xorg/xserver/-/blob/master/COPYING?ref_type=heads#L1781",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:19:59Z",
+      "timestamp": "2024-12-30T18:05:44Z",
       "isWayBackLink": false,
       "order": 0
     }

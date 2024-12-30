@@ -12,6 +12,8 @@ Map<String, dynamic> content = {
   "name": "Linux man-pages Copyleft Variant",
   "licenseComments":
       "This is the same as Linux-man-pages-copyleft but omits the last sentence of the third paragraph.",
+  "comment":
+      "This is the same as Linux-man-pages-copyleft but omits the last sentence of the third paragraph.",
   "licenseId": "Linux-man-pages-copyleft-var",
   "crossRef": [
     {
@@ -20,7 +22,7 @@ Map<String, dynamic> content = {
           "https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/tree/man2/set_mempolicy.2#n5",
       "isValid": true,
       "isLive": false,
-      "timestamp": "2024-11-14T17:20:54Z",
+      "timestamp": "2024-12-30T18:01:10Z",
       "isWayBackLink": false,
       "order": 0
     }

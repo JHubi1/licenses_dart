@@ -13,11 +13,11 @@ Map<String, dynamic> content = {
   "licenseId": "MITNFA",
   "crossRef": [
     {
-      "match": "false",
+      "match": "true",
       "url": "https://fedoraproject.org/wiki/Licensing/MITNFA",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:27:23Z",
+      "timestamp": "2024-12-30T18:04:07Z",
       "isWayBackLink": false,
       "order": 0
     }

@@ -8,7 +8,7 @@ Map<String, dynamic> content = {
   "licenseText":
       "Copyright (C) 1995-2009 Gerd Neugebauer\n\ncwpuzzle.dtx is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY. No author or distributor  accepts responsibility to anyone for the consequences of using it or for whether it serves any particular purpose  or works at all, unless he says so in writing.\n\nEveryone is granted permission to copy, modify and redistribute cwpuzzle.dtx, provided this copyright notice is preserved and any modifications are indicated.\n",
   "standardLicenseTemplate":
-      "<<beginOptional>>Copyright (C) 1995-2009 Gerd Neugebauer\n\n<<endOptional>>\n\n<<var;name=\"projectName1\";original=\"cwpuzzle.dtx\";match=\".+\">> is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY. No author or distributor accepts responsibility to anyone for the consequences of using it or for whether it serves any particular purpose or works at all, unless he says so in writing.\n\nEveryone is granted permission to copy, modify and redistribute <<var;name=\"projectName2\";original=\"cwpuzzle.dtx\";match=\".+\">> , provided this copyright notice is preserved and any modifications are indicated.\n\n",
+      "<<beginOptional>>Copyright (C) 1995-2009 Gerd Neugebauer\n\n<<endOptional>>\n<<var;name=\"projectName1\";original=\"cwpuzzle.dtx\";match=\".+\">> is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY. No author or distributor accepts responsibility to anyone for the consequences of using it or for whether it serves any particular purpose or works at all, unless he says so in writing.\n\nEveryone is granted permission to copy, modify and redistribute <<var;name=\"projectName2\";original=\"cwpuzzle.dtx\";match=\".+\">> , provided this copyright notice is preserved and any modifications are indicated.\n\n",
   "name": "Crossword License",
   "licenseId": "Crossword",
   "crossRef": [
@@ -17,7 +17,7 @@ Map<String, dynamic> content = {
       "url": "https://fedoraproject.org/wiki/Licensing/Crossword",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:13:43Z",
+      "timestamp": "2024-12-30T17:57:43Z",
       "isWayBackLink": false,
       "order": 0
     }
@@ -25,5 +25,5 @@ Map<String, dynamic> content = {
   "seeAlso": ["https://fedoraproject.org/wiki/Licensing/Crossword"],
   "isOsiApproved": false,
   "licenseTextHtml":
-      "\n      <div class=\"optional-license-text\"> \n         <p>Copyright (C) 1995-2009 Gerd Neugebauer</p>\n\n      </div>\n\n      <p><var class=\"replaceable-license-text\"> cwpuzzle.dtx</var> is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY. No author or\n         distributor accepts responsibility to anyone for the consequences of using it or for whether it serves\n         any particular purpose or works at all, unless he says so in writing.\n      </p>\n\n        <p>Everyone is granted permission to copy, modify and redistribute <var class=\"replaceable-license-text\"> cwpuzzle.dtx</var>, provided this\n             copyright notice is preserved and any modifications are indicated.\n      </p>\n\n    "
+      "\n      <div class=\"optional-license-text\"> \n         <p>Copyright (C) 1995-2009 Gerd Neugebauer</p>\n\n      </div>\n\n      <p><var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .+\"> cwpuzzle.dtx</span></var> is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY. No author or\n         distributor accepts responsibility to anyone for the consequences of using it or for whether it serves\n         any particular purpose or works at all, unless he says so in writing.\n      </p>\n\n        <p>Everyone is granted permission to copy, modify and redistribute <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .+\"> cwpuzzle.dtx</span></var>, provided this\n             copyright notice is preserved and any modifications are indicated.\n      </p>\n\n    "
 };

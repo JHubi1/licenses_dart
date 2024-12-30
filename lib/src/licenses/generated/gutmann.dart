@@ -13,11 +13,11 @@ Map<String, dynamic> content = {
   "licenseId": "Gutmann",
   "crossRef": [
     {
-      "match": "false",
+      "match": "true",
       "url": "https://www.cs.auckland.ac.nz/~pgut001/dumpasn1.c",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:21:26Z",
+      "timestamp": "2024-12-30T17:54:54Z",
       "isWayBackLink": false,
       "order": 0
     }

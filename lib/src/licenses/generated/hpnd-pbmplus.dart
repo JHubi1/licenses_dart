@@ -8,9 +8,11 @@ Map<String, dynamic> content = {
   "licenseText":
       "Copyright (C) 1991 by Jef Poskanzer.\n\nPermission to use, copy, modify, and distribute this software and its\ndocumentation for any purpose and without fee is hereby granted, provided\nthat the above copyright notice appear in all copies and that both that\ncopyright notice and this permission notice appear in supporting\ndocumentation.  This software is provided \"as is\" without express or\nimplied warranty.\n",
   "standardLicenseTemplate":
-      "<<var;name=\"copyright\";original=\"Copyright (C) 1991 by Jef Poskanzer.\";match=\".{0,5000}\">>\n\nPermission to use, copy, modify, and distribute this software and its documentation for any purpose and without fee is hereby granted, provided that the above copyright notice appear in all copies and that both that copyright notice and this permission notice appear in supporting documentation. This software is provided \"as is\" without express or implied warranty.\n\n",
+      "<<var;name=\"copyright\";original=\"Copyright (C) 1991 by Jef Poskanzer.\";match=\".{0,5000}\">>\nPermission to use, copy, modify, and distribute this software and its documentation for any purpose and without fee is hereby granted, provided that the above copyright notice appear in all copies and that both that copyright notice and this permission notice appear in supporting documentation. This software is provided \"as is\" without express or implied warranty.\n\n",
   "name": "Historical Permission Notice and Disclaimer - Pbmplus variant",
   "licenseComments":
+      "This license is nearly a match for HPND, but omits first sentence of third clause regarding no reps, and only includes the second sentence regarding \"as is\". In the original HPND that entire clause is optional.",
+  "comment":
       "This license is nearly a match for HPND, but omits first sentence of third clause regarding no reps, and only includes the second sentence regarding \"as is\". In the original HPND that entire clause is optional.",
   "licenseId": "HPND-Pbmplus",
   "crossRef": [
@@ -20,7 +22,7 @@ Map<String, dynamic> content = {
           "https://sourceforge.net/p/netpbm/code/HEAD/tree/super_stable/netpbm.c#l8",
       "isValid": true,
       "isLive": false,
-      "timestamp": "2024-11-14T17:11:47Z",
+      "timestamp": "2024-12-30T18:04:09Z",
       "isWayBackLink": false,
       "order": 0
     }
@@ -30,5 +32,5 @@ Map<String, dynamic> content = {
   ],
   "isOsiApproved": false,
   "licenseTextHtml":
-      "\n         <var class=\"replaceable-license-text\"> \n                Copyright (C) 1991 by Jef Poskanzer.\n        </var>\n\n         <p>\n                Permission to use, copy, modify, and distribute this software\n                and its documentation for any purpose and without fee is hereby\n                granted, provided that the above copyright notice appear in all copies\n                and that both that copyright notice and this permission\n                notice appear in supporting documentation. This software\n                is provided &quot;as is&quot; without express or implied warranty.\n         </p>\n\n      "
+      "\n         <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n                Copyright (C) 1991 by Jef Poskanzer.\n        </span></var>\n\n         <p>\n                Permission to use, copy, modify, and distribute this software\n                and its documentation for any purpose and without fee is hereby\n                granted, provided that the above copyright notice appear in all copies\n                and that both that copyright notice and this permission\n                notice appear in supporting documentation. This software\n                is provided &quot;as is&quot; without express or implied warranty.\n         </p>\n\n      "
 };

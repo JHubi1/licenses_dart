@@ -8,9 +8,11 @@ Map<String, dynamic> content = {
   "licenseText":
       "Copyright (c)  2000\nSWsoft  company\n\nModifications copyright (c) 2001, 2013. Oracle and/or its affiliates.\nAll rights reserved.\n\nThis material is provided \"as is\", with absolutely no warranty expressed\nor implied. Any use is at your own risk.\n\nPermission to use or copy this software for any purpose is hereby granted\nwithout fee, provided the above notices are retained on all copies.\nPermission to modify the code and to distribute modified code is granted,\nprovided the above notices are retained, and a notice that the code was\nmodified is included with the above copyright notice.\n",
   "standardLicenseTemplate":
-      "<<var;name=\"copyright\";original=\"Copyright (c) 2000 SWsoft company    Modifications copyright (c) 2001, 2013. Oracle and/or its affiliates. All rights reserved.  \";match=\".{0,5000}\">>\n\nThis material is provided \"as is\", with absolutely no warranty expressed or implied. Any use is at your own risk.\n\nPermission to use or copy this software for any purpose is hereby granted without fee, provided the above notices are retained on all copies. Permission to modify the code and to distribute modified code is granted, provided the above notices are retained, and a notice that the code was modified is included with the above copyright notice.\n\n",
+      "<<var;name=\"copyright\";original=\"Copyright (c) 2000 SWsoft company   Modifications copyright (c) 2001, 2013. Oracle and/or its affiliates. All rights reserved.  \";match=\".{0,5000}\">>\nThis material is provided \"as is\", with absolutely no warranty expressed or implied. Any use is at your own risk.\n\nPermission to use or copy this software for any purpose is hereby granted without fee, provided the above notices are retained on all copies. Permission to modify the code and to distribute modified code is granted, provided the above notices are retained, and a notice that the code was modified is included with the above copyright notice.\n\n",
   "name": "Boehm-Demers-Weiser GC License (without fee)",
   "licenseComments":
+      "This license is similar to Boehm-GC with slightly different wording and adds \"without fee\".",
+  "comment":
       "This license is similar to Boehm-GC with slightly different wording and adds \"without fee\".",
   "licenseId": "Boehm-GC-without-fee",
   "crossRef": [
@@ -19,7 +21,7 @@ Map<String, dynamic> content = {
       "url": "https://github.com/MariaDB/server/blob/11.6/libmysqld/lib_sql.cc",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:13:16Z",
+      "timestamp": "2024-12-30T18:04:30Z",
       "isWayBackLink": false,
       "order": 0
     }
@@ -29,5 +31,5 @@ Map<String, dynamic> content = {
   ],
   "isOsiApproved": false,
   "licenseTextHtml":
-      "\n         <div class=\"replaceable-license-text\"> \n        <p>\n            Copyright (c) 2000 SWsoft company\n        </p>\n\n         <p>\n            Modifications copyright (c) 2001, 2013. Oracle\n            and/or its affiliates. All rights reserved.\n         </p>\n\n         </div>\n         <p>\n            This material is provided &quot;as is&quot;, with absolutely no\n            warranty expressed or implied. Any use is at your own risk.\n         </p>\n\n         <p>\n            Permission to use or copy this software for any purpose\n            is hereby granted without fee, provided the above notices\n            are retained on all copies. Permission to modify the code\n            and to distribute modified code is granted, provided the\n            above notices are retained, and a notice that the code\n            was modified is included with the above copyright notice.\n         </p>\n\n      "
+      "\n         <div class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n        <p>\n            Copyright (c) 2000 SWsoft company\n        </p>\n\n         <p>\n            Modifications copyright (c) 2001, 2013. Oracle\n            and/or its affiliates. All rights reserved.\n         </p>\n\n         </span></div>\n         <p>\n            This material is provided &quot;as is&quot;, with absolutely no\n            warranty expressed or implied. Any use is at your own risk.\n         </p>\n\n         <p>\n            Permission to use or copy this software for any purpose\n            is hereby granted without fee, provided the above notices\n            are retained on all copies. Permission to modify the code\n            and to distribute modified code is granted, provided the\n            above notices are retained, and a notice that the code\n            was modified is included with the above copyright notice.\n         </p>\n\n      "
 };

@@ -18,7 +18,7 @@ Map<String, dynamic> content = {
           "https://ctan.math.utah.edu/ctan/tex-archive/macros/generic/misc/swrule.sty",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:22:20Z",
+      "timestamp": "2024-12-30T17:57:22Z",
       "isWayBackLink": false,
       "order": 0
     }

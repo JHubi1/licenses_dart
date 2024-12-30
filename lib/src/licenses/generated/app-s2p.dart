@@ -8,16 +8,16 @@ Map<String, dynamic> content = {
   "licenseText":
       "COPYRIGHT and LICENSE\n\nThis program is free and open software. You may use, modify,\ndistribute, and sell this program (and any modified variants) in any\nway you wish, provided you do not restrict others from doing the same.\n",
   "standardLicenseTemplate":
-      "COPYRIGHT and LICENSE\n\nThis program is free and open software. You may use, modify, distribute, and sell this program (and any modified variants) in any way you wish, provided you do not restrict others from doing the same.\n\n",
+      "COPYRIGHT and LICENSE\nThis program is free and open software. You may use, modify, distribute, and sell this program (and any modified variants) in any way you wish, provided you do not restrict others from doing the same.\n\n",
   "name": "App::s2p License",
   "licenseId": "App-s2p",
   "crossRef": [
     {
-      "match": "false",
+      "match": "true",
       "url": "https://fedoraproject.org/wiki/Licensing/App-s2p",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:22:55Z",
+      "timestamp": "2024-12-30T18:04:42Z",
       "isWayBackLink": false,
       "order": 0
     }

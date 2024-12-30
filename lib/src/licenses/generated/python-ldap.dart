@@ -13,11 +13,11 @@ Map<String, dynamic> content = {
   "licenseId": "python-ldap",
   "crossRef": [
     {
-      "match": "false",
+      "match": "true",
       "url": "https://github.com/python-ldap/python-ldap/blob/main/LICENCE",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:13:22Z",
+      "timestamp": "2024-12-30T18:02:27Z",
       "isWayBackLink": false,
       "order": 0
     }

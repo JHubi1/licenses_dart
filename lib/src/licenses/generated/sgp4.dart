@@ -8,16 +8,16 @@ Map<String, dynamic> content = {
   "licenseText":
       "There is no license associated with the code and you may use it for any purposeâpersonal or commercialâas you wish. We ask only that you include citations in your documentation and source code to show the source of the code and provide links to the main page, to facilitate communications regarding any questions on the theory or source code.\n",
   "standardLicenseTemplate":
-      "<<beginOptional>>SGP4 Permission Notice<<endOptional>>\n\nThere is no license associated with the code and you may use it for any purposeâpersonal or commercialâas you wish. We ask only that you include citations in your documentation and source code to show the source of the code and provide links to the main page, to facilitate communications regarding any questions on the theory or source code.\n\n",
+      "<<beginOptional>>SGP4 Permission Notice<<endOptional>>\nThere is no license associated with the code and you may use it for any purposeâpersonal or commercialâas you wish. We ask only that you include citations in your documentation and source code to show the source of the code and provide links to the main page, to facilitate communications regarding any questions on the theory or source code.\n\n",
   "name": "SGP4 Permission Notice",
   "licenseId": "SGP4",
   "crossRef": [
     {
-      "match": "false",
+      "match": "true",
       "url": "https://celestrak.org/publications/AIAA/2006-6753/faq.php",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:11:30Z",
+      "timestamp": "2024-12-30T17:54:53Z",
       "isWayBackLink": false,
       "order": 0
     }

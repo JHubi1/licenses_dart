@@ -12,6 +12,8 @@ Map<String, dynamic> content = {
   "name": "Creative    Commons Public Domain Mark 1.0 Universal",
   "licenseComments":
       "As per Creative Commons, this is intended to provide a standard way to mark works that are no longer restricted by copyright to be marked as such in a standard and simple way. See https://creativecommons.org/public-domain/pdm/ for more information.",
+  "comment":
+      "As per Creative Commons, this is intended to provide a standard way to mark works that are no longer restricted by copyright to be marked as such in a standard and simple way. See https://creativecommons.org/public-domain/pdm/ for more information.",
   "licenseId": "CC-PDM-1.0",
   "crossRef": [
     {
@@ -19,16 +21,16 @@ Map<String, dynamic> content = {
       "url": "https://creativecommons.org/share-your-work/cclicenses/",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:11:03Z",
+      "timestamp": "2024-12-30T18:03:22Z",
       "isWayBackLink": false,
       "order": 1
     },
     {
-      "match": "false",
+      "match": "true",
       "url": "https://creativecommons.org/publicdomain/mark/1.0/",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:11:03Z",
+      "timestamp": "2024-12-30T18:03:22Z",
       "isWayBackLink": false,
       "order": 0
     }

@@ -12,6 +12,8 @@ Map<String, dynamic> content = {
   "name": "GNU General Public License v2.0 w/Autoconf exception",
   "licenseComments":
       "DEPRECATED: Use license expression including main license, \"WITH\" operator, and identifier: Autoconf-exception-2.0",
+  "comment":
+      "DEPRECATED: Use license expression including main license, \"WITH\" operator, and identifier: Autoconf-exception-2.0",
   "licenseId": "GPL-2.0-with-autoconf-exception",
   "crossRef": [
     {
@@ -19,7 +21,7 @@ Map<String, dynamic> content = {
       "url": "http://ac-archive.sourceforge.net/doc/copyright.html",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:17:50Z",
+      "timestamp": "2024-12-30T18:05:21Z",
       "isWayBackLink": false,
       "order": 0
     }

@@ -8,16 +8,16 @@ Map<String, dynamic> content = {
   "licenseText":
       "The author disclaims copyright to this source code. In place of a legal notice, here is a blessing:\n\nMay you do good and not evil.\nMay you find forgiveness for yourself and forgive others.\nMay you share freely, never taking more than you give.\n",
   "standardLicenseTemplate":
-      "The author disclaims copyright to this source code. In place of a legal notice, here is a blessing:\n\n   May you do good and not evil.\n\n   May you find forgiveness for yourself and forgive others.\n\n   May you share freely, never taking more than you give.\n\n   ",
+      "The author disclaims copyright to this source code. In place of a legal notice, here is a blessing:\n\n   May you do good and not evil.\n\n   May you find forgiveness for yourself and forgive others.\n\n   May you share freely, never taking more than you give.\n   \n   ",
   "name": "SQLite Blessing",
   "licenseId": "blessing",
   "crossRef": [
     {
-      "match": "false",
+      "match": "true",
       "url": "https://sqlite.org/src/artifact/df5091916dbb40e6",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:24:35Z",
+      "timestamp": "2024-12-30T18:06:27Z",
       "isWayBackLink": false,
       "order": 1
     },
@@ -26,7 +26,7 @@ Map<String, dynamic> content = {
       "url": "https://www.sqlite.org/src/artifact/e33a4df7e32d742a?ln=4-9",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:24:35Z",
+      "timestamp": "2024-12-30T18:06:27Z",
       "isWayBackLink": false,
       "order": 0
     }

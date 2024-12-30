@@ -14,21 +14,21 @@ Map<String, dynamic> content = {
   "crossRef": [
     {
       "match": "false",
-      "url": "https://people.freebsd.org/~phk/",
-      "isValid": true,
-      "isLive": true,
-      "timestamp": "2024-11-14T17:22:37Z",
-      "isWayBackLink": false,
-      "order": 1
-    },
-    {
-      "match": "false",
       "url": "https://fedoraproject.org/wiki/Licensing/Beerware",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:22:37Z",
+      "timestamp": "2024-12-30T18:00:01Z",
       "isWayBackLink": false,
       "order": 0
+    },
+    {
+      "match": "false",
+      "url": "https://people.freebsd.org/~phk/",
+      "isValid": true,
+      "isLive": true,
+      "timestamp": "2024-12-30T18:00:02Z",
+      "isWayBackLink": false,
+      "order": 1
     }
   ],
   "seeAlso": [
@@ -37,5 +37,5 @@ Map<String, dynamic> content = {
   ],
   "isOsiApproved": false,
   "licenseTextHtml":
-      "\n       <p>&quot;THE BEER-WARE LICENSE&quot; (Revision 42):</p>\n\n      <p><var class=\"replaceable-license-text\"> &lt;phk@FreeBSD.ORG&gt;</var> wrote this file. As long as you retain\n         this notice you can do whatever you want with this stuff. If we meet some day, and you think this\n         stuff is worth it, you can buy me a beer in return Poul-Henning Kamp</p>\n\n    "
+      "\n       <p>&quot;THE BEER-WARE LICENSE&quot; (Revision 42):</p>\n\n      <p><var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern <phk@FreeBSD.ORG>|<phk@login.dkuug.dk>\"> &lt;phk@FreeBSD.ORG&gt;</span></var> wrote this file. As long as you retain\n         this notice you can do whatever you want with this stuff. If we meet some day, and you think this\n         stuff is worth it, you can buy me a beer in return Poul-Henning Kamp</p>\n\n    "
 };

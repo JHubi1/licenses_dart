@@ -414,6 +414,7 @@ import 'generated/linux-man-pages-copyleft-var.dart'
     as _linux_man_pages_copyleft_var;
 import 'generated/linux-man-pages-copyleft.dart' as _linux_man_pages_copyleft;
 import 'generated/lucida-bitmap-fonts.dart' as _lucida_bitmap_fonts;
+import 'generated/mips.dart' as _mips;
 import 'generated/mit-0.dart' as _mit_0;
 import 'generated/mit-cmu.dart' as _mit_cmu;
 import 'generated/mit-click.dart' as _mit_click;
@@ -615,6 +616,7 @@ import 'generated/ttyp0.dart' as _ttyp0;
 import 'generated/tu-berlin-10.dart' as _tu_berlin_10;
 import 'generated/tu-berlin-20.dart' as _tu_berlin_20;
 import 'generated/termreadkey.dart' as _termreadkey;
+import 'generated/thirdeye.dart' as _thirdeye;
 import 'generated/trustedqsl.dart' as _trustedqsl;
 import 'generated/ucar.dart' as _ucar;
 import 'generated/ucl-10.dart' as _ucl_10;
@@ -679,6 +681,7 @@ import 'generated/egenix.dart' as _egenix;
 import 'generated/etalab-20.dart' as _etalab_20;
 import 'generated/fwlw.dart' as _fwlw;
 import 'generated/gsoap-13b.dart' as _gsoap_13b;
+import 'generated/generic-xts.dart' as _generic_xts;
 import 'generated/gnuplot.dart' as _gnuplot;
 import 'generated/gtkbook.dart' as _gtkbook;
 import 'generated/hdparm.dart' as _hdparm;
@@ -707,6 +710,7 @@ import 'generated/swrule.dart' as _swrule;
 import 'generated/threeparttable.dart' as _threeparttable;
 import 'generated/ulem.dart' as _ulem;
 import 'generated/w3m.dart' as _w3m;
+import 'generated/wwl.dart' as _wwl;
 import 'generated/wxwindows.dart' as _wxwindows;
 import 'generated/xinetd.dart' as _xinetd;
 import 'generated/xkeyboard-config-zinoviev.dart' as _xkeyboard_config_zinoviev;
@@ -1114,6 +1118,7 @@ Map<String, dynamic> get content => {
       "linux-man-pages-copyleft-var": _linux_man_pages_copyleft_var.content,
       "linux-man-pages-copyleft": _linux_man_pages_copyleft.content,
       "lucida-bitmap-fonts": _lucida_bitmap_fonts.content,
+      "mips": _mips.content,
       "mit-0": _mit_0.content,
       "mit-cmu": _mit_cmu.content,
       "mit-click": _mit_click.content,
@@ -1312,6 +1317,7 @@ Map<String, dynamic> get content => {
       "tu-berlin-1.0": _tu_berlin_10.content,
       "tu-berlin-2.0": _tu_berlin_20.content,
       "termreadkey": _termreadkey.content,
+      "thirdeye": _thirdeye.content,
       "trustedqsl": _trustedqsl.content,
       "ucar": _ucar.content,
       "ucl-1.0": _ucl_10.content,
@@ -1376,6 +1382,7 @@ Map<String, dynamic> get content => {
       "etalab-2.0": _etalab_20.content,
       "fwlw": _fwlw.content,
       "gsoap-1.3b": _gsoap_13b.content,
+      "generic-xts": _generic_xts.content,
       "gnuplot": _gnuplot.content,
       "gtkbook": _gtkbook.content,
       "hdparm": _hdparm.content,
@@ -1404,6 +1411,7 @@ Map<String, dynamic> get content => {
       "threeparttable": _threeparttable.content,
       "ulem": _ulem.content,
       "w3m": _w3m.content,
+      "wwl": _wwl.content,
       "wxwindows": _wxwindows.content,
       "xinetd": _xinetd.content,
       "xkeyboard-config-zinoviev": _xkeyboard_config_zinoviev.content,

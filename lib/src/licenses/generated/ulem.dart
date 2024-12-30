@@ -8,18 +8,20 @@ Map<String, dynamic> content = {
   "licenseText":
       "Copyright 1989-2019 by Donald Arseneau (Vancouver, Canada, asnd@triumf.ca)\n\nThis software may be freely transmitted, reproduced, or modified\nfor any purpose provided that this copyright notice is left intact.\n",
   "standardLicenseTemplate":
-      "<<var;name=\"copyright\";original=\"Copyright 1989-2019 by Donald Arseneau (Vancouver, Canada, asnd@triumf.ca)\";match=\".{0,5000}\">>\n\n<<var;name=\"software\";original=\"This software\";match=\"This software|These macros\">> may be freely transmitted, reproduced, or modified for any purpose provided that this<<beginOptional>> copyright<<endOptional>> notice is left intact.\n\n",
+      "<<var;name=\"copyright\";original=\"Copyright 1989-2019 by Donald Arseneau (Vancouver, Canada, asnd@triumf.ca)\";match=\".{0,5000}\">>\n<<var;name=\"software\";original=\"This software\";match=\"This software|These macros\">> may be freely transmitted, reproduced, or modified for any purpose provided that this<<beginOptional>> copyright<<endOptional>> notice is left intact.\n\n",
   "name": "ulem License",
   "licenseComments":
+      "This license is a very similar to fwlw and magaz, but has slightly different obligations.",
+  "comment":
       "This license is a very similar to fwlw and magaz, but has slightly different obligations.",
   "licenseId": "ulem",
   "crossRef": [
     {
-      "match": "false",
+      "match": "true",
       "url": "https://mirrors.ctan.org/macros/latex/contrib/ulem/README",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:15:29Z",
+      "timestamp": "2024-12-30T18:01:34Z",
       "isWayBackLink": false,
       "order": 0
     }
@@ -27,5 +29,5 @@ Map<String, dynamic> content = {
   "seeAlso": ["https://mirrors.ctan.org/macros/latex/contrib/ulem/README"],
   "isOsiApproved": false,
   "licenseTextHtml":
-      "\n         <var class=\"replaceable-license-text\"> \n            Copyright 1989-2019 by Donald Arseneau (Vancouver, Canada, asnd@triumf.ca)\n         </var>\n         <p>\n            <var class=\"replaceable-license-text\"> This software</var> may be freely transmitted, reproduced, or modified\n            for any purpose provided that this <var class=\"optional-license-text\"> copyright</var> notice is left intact.\n         </p>\n\n      "
+      "\n         <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n            Copyright 1989-2019 by Donald Arseneau (Vancouver, Canada, asnd@triumf.ca)\n         </span></var>\n         <p>\n            <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern This software|These macros\"> This software</span></var> may be freely transmitted, reproduced, or modified\n            for any purpose provided that this <var class=\"optional-license-text\"> copyright</var> notice is left intact.\n         </p>\n\n      "
 };

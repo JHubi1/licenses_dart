@@ -8,16 +8,16 @@ Map<String, dynamic> content = {
   "licenseText":
       "Everyone is permitted to do anything on this program including copying,\nmodifying, and improving, unless you try to pretend that you wrote it.\ni.e., the above copyright notice has to appear in all copies.\nTHE AUTHOR DISCLAIMS ANY RESPONSIBILITY WITH REGARD TO THIS SOFTWARE.\n",
   "standardLicenseTemplate":
-      "<<beginOptional>>SL License<<endOptional>>\n\nEveryone is permitted to do anything on this program including copying, modifying, and improving, unless you try to pretend that you wrote it. i.e., the above copyright notice has to appear in all copies. THE AUTHOR DISCLAIMS ANY RESPONSIBILITY WITH REGARD TO THIS SOFTWARE.\n\n",
+      "<<beginOptional>>SL License<<endOptional>>\nEveryone is permitted to do anything on this program including copying, modifying, and improving, unless you try to pretend that you wrote it. i.e., the above copyright notice has to appear in all copies. THE AUTHOR DISCLAIMS ANY RESPONSIBILITY WITH REGARD TO THIS SOFTWARE.\n\n",
   "name": "SL License",
   "licenseId": "SL",
   "crossRef": [
     {
-      "match": "false",
+      "match": "true",
       "url": "https://github.com/mtoyoda/sl/blob/master/LICENSE",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:16:02Z",
+      "timestamp": "2024-12-30T17:57:36Z",
       "isWayBackLink": false,
       "order": 0
     }

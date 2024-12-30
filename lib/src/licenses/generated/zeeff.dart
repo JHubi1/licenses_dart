@@ -8,7 +8,7 @@ Map<String, dynamic> content = {
   "licenseText":
       "Copyright 1988 Jon Zeeff (zeeff@b-tech.ann-arbor.mi.us)  \nYou can use this code in any manner, as long as you leave my \nname on it and don't hold me responsible for any problems with it.\n",
   "standardLicenseTemplate":
-      "<<var;name=\"copyright\";original=\"Copyright 1988 Jon Zeeff (zeeff@b-tech.ann-arbor.mi.us)\";match=\".{0,5000}\">>\n\nYou can use this code in any manner, as long as you leave my name on it and don't hold me responsible for any problems with it.\n\n",
+      "<<var;name=\"copyright\";original=\"Copyright 1988 Jon Zeeff (zeeff@b-tech.ann-arbor.mi.us)\";match=\".{0,5000}\">>\nYou can use this code in any manner, as long as you leave my name on it and don't hold me responsible for any problems with it.\n\n",
   "name": "Zeeff License",
   "licenseId": "Zeeff",
   "crossRef": [
@@ -17,7 +17,7 @@ Map<String, dynamic> content = {
       "url": "ftp://ftp.tin.org/pub/news/utils/newsx/newsx-1.6.tar.gz",
       "isValid": true,
       "isLive": false,
-      "timestamp": "2024-11-14T17:25:28Z",
+      "timestamp": "2024-12-30T17:59:14Z",
       "isWayBackLink": false,
       "order": 0
     }
@@ -25,5 +25,5 @@ Map<String, dynamic> content = {
   "seeAlso": ["ftp://ftp.tin.org/pub/news/utils/newsx/newsx-1.6.tar.gz"],
   "isOsiApproved": false,
   "licenseTextHtml":
-      "\n         <var class=\"replaceable-license-text\"> \n            Copyright 1988 Jon Zeeff (zeeff@b-tech.ann-arbor.mi.us)\n         </var>\n         <p>\n            You can use this code in any manner, as long as you leave my name\n            on it and don&apos;t hold me responsible for any problems with it.\n         </p>\n\n      "
+      "\n         <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n            Copyright 1988 Jon Zeeff (zeeff@b-tech.ann-arbor.mi.us)\n         </span></var>\n         <p>\n            You can use this code in any manner, as long as you leave my name\n            on it and don&apos;t hold me responsible for any problems with it.\n         </p>\n\n      "
 };

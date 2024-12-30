@@ -8,9 +8,10 @@ Map<String, dynamic> content = {
   "licenseText":
       "Portions (C) Copyright PADL Software Pty Ltd. 1999\n\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided that this notice is preserved\nand that due credit is given to PADL Software Pty Ltd. This software\nis provided ``as is'' without express or implied warranty.\n",
   "standardLicenseTemplate":
-      "<<var;name=\"copyright\";original=\"Portions (C) Copyright PADL Software Pty Ltd. 1999\";match=\".{0,5000}\">>\n\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that this notice is preserved and that due credit is given to PADL Software Pty Ltd. This software is provided ``as is'' without express or implied warranty.\n\n",
+      "<<var;name=\"copyright\";original=\"Portions (C) Copyright PADL Software Pty Ltd. 1999\";match=\".{0,5000}\">>\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that this notice is preserved and that due credit is given to PADL Software Pty Ltd. This software is provided ``as is'' without express or implied warranty.\n\n",
   "name": "PADL License",
   "licenseComments": "This is similar to BSD-4.3RENO and Furuseth",
+  "comment": "This is similar to BSD-4.3RENO and Furuseth",
   "licenseId": "PADL",
   "crossRef": [
     {
@@ -19,7 +20,7 @@ Map<String, dynamic> content = {
           "https://git.openldap.org/openldap/openldap/-/blob/master/libraries/libldap/os-local.c?ref_type=heads#L19-23",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2024-11-14T17:12:20Z",
+      "timestamp": "2024-12-30T18:02:29Z",
       "isWayBackLink": false,
       "order": 0
     }
@@ -29,5 +30,5 @@ Map<String, dynamic> content = {
   ],
   "isOsiApproved": false,
   "licenseTextHtml":
-      "\n        <var class=\"replaceable-license-text\"> \n                Portions (C) Copyright PADL Software Pty Ltd. 1999\n        </var>\n        <p>\n                Redistribution and use in source and binary forms,\n                with or without modification, are permitted provided\n                that this notice is preserved and that due credit\n                is given to PADL Software Pty Ltd. This software is\n                provided ``as is&apos;&apos; without express or implied warranty.\n        </p>\n\n      "
+      "\n        <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n                Portions (C) Copyright PADL Software Pty Ltd. 1999\n        </span></var>\n        <p>\n                Redistribution and use in source and binary forms,\n                with or without modification, are permitted provided\n                that this notice is preserved and that due credit\n                is given to PADL Software Pty Ltd. This software is\n                provided ``as is&apos;&apos; without express or implied warranty.\n        </p>\n\n      "
 };
