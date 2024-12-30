@@ -1,4 +1,4 @@
-## 1.1.0+2
+## 1.1.1
 
 - Updated SPDX index to [3.26.0](https://github.com/spdx/license-list-XML/releases/tag/v3.26.0)
 
